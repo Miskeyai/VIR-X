@@ -6,12 +6,12 @@
 <div align="center">
 
 # VIR X
-#### Route to 250+ LLMs with 1 fast & friendly API
+#### VIRX is AI pair programming in your terminal
 
 <img src="FDJCSCVb_400x400.jpg" width="550px" alt=" MATRI X" style="margin-left:-35px">
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter/follow/portkeyai?style=social&label=FollowVIR X)](https://x.com/VIRX_PROTOCAL)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter/follow/portkeyai?style=social&label=Follow%20%40VIRX)](https://x.com/VIRX_PROTOCAL)
 
 </div>
 
