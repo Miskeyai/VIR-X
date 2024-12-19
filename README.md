@@ -108,7 +108,7 @@ projects like django, scikitlearn, matplotlib, etc.
 
 ## More info
 
-- [GitHub](https://github.com/Aider-AI/aider)
+- [GitHub](https://github.com/VIRXPROTOCAL/VIR-X)
 - [X](https://x.com/VIRX_PROTOCAL)
 
 
